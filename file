@@ -1,0 +1,51 @@
+int main(){
+
+
+int b =  2 * 3 - 10 ;
+int x =  y + (z*w) / 2+2*m-2;
+int b =  (x+m)*(z*w)*64;
+
+
+
+if( 10 + 15 < 12 * 2 -10 /2 ) {
+   int a = 10;
+    
+if( a < 890 ){
+  int b = 56789;
+
+}
+
+else{
+   int  j = 12412;
+
+}
+
+
+}
+else{
+
+int alireza = 1234234 ;
+alireza = alireza + "alire";
+
+}
+
+
+int a = 10;
+//char b = "_a";
+
+//char a = 'a';  
+
+while(a < 10){
+int a  = 100;
+if(a < 100){
+int b = 11247098;
+}
+else {int a = 10000;}
+}
+
+
+
+
+
+
+}
