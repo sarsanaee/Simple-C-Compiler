@@ -25,7 +25,7 @@ else{
 else{
 
 int alireza = 1234234 ;
-alireza = alireza + "alire";
+//alireza = alireza + "alire";
 
 }
 
