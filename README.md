@@ -1,2 +1,2 @@
 # Simple-C-Compiler
-This is a simple C compiler that created with lex and yacc and it is my compiler design project :)
+This is a simple C compiler that created with lex and yacc and it is my compiler design course project :)
