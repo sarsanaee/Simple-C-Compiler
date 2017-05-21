@@ -1,14 +1,12 @@
-#file = open("outfile", 'r')
-#myfile = file.read()
+import sys
 
 temp = -1
 templist = []
 
-with open("outfile", "r") as f :
+with open(sys.argv[1], "r") as f :
     for line in f:
         line = line.split()
         if(len(line) == 6 and line[3] == '+'):
-           outfile
            if(line[2].isdigit() and not line[4].isdigit() ):
                print "%",line[0],"= add i32" , line[2] , ', %',line[4]
            elif(line[4].isdigit() and not line[2].isdigit()):
